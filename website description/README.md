@@ -30,6 +30,6 @@
 
     Website info
 
-    Link to the live webpage:
+    Link to the live webpage: https://treylove.github.io/Weather-Dashboard/
 
-    link to an image of the working webpage:
+     the image of the working website is placed in the website description folder
